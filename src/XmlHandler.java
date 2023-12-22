@@ -1,4 +1,4 @@
-package streams;
+package streams.src;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;

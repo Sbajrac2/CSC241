@@ -1,4 +1,4 @@
-package streams;
+package streams.src;
 
 public interface Recording {
     int MAX_READINGS = 10; //has to be assigned to constant

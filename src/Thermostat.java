@@ -1,4 +1,4 @@
-package streams;
+package streams.src;
 
 public class Thermostat extends Device implements Recording {
 //This class should now implement the Recording interface. Make the following changes:

@@ -1,4 +1,4 @@
-package streams;
+package streams.src;
 
 public class LightSwitch extends Device implements Toggling {
     public LightSwitch(String id, Room room, String location) {

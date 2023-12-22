@@ -1,4 +1,4 @@
-package streams;
+package streams.src;
 
 public class Customer implements Comparable<Customer> {
     // Add instance variables

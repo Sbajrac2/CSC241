@@ -1,4 +1,4 @@
-package streams;
+package streams.src;
 
 public class Residence extends Building {
     // Constructor
